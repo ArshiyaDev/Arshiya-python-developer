@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arshiya
-- 🧑🏽‍🎓 Student 
+- 🧑🏽‍🎓 Math Student 
 - 🧑🏽‍💻Python developer
 * 📍Live Tehran,IR
 *  📧 you can find me with this email : arshiya.ai.ds@gmail.com
