@@ -5,7 +5,6 @@
 *  📧 you can find me with this email : arshiya.ai.ds@gmail.com
 - I love programming 👨🏽‍💻 
 - My favorite programming language is Python🐍
-- I'm interested in artificial intelligence🦾
 
 <img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=Arshiya-python-developer&show_icons=true&theme=radical" />
 
