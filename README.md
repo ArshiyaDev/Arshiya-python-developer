@@ -6,7 +6,6 @@
 - I love programming 👨🏽‍💻 
 - My favorite programming language is Python🐍
 
-<img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=Arshiya-python-developer&show_icons=true&theme=radical" />
 
 <img align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshiya-python-developer&layout=compact" />
 
